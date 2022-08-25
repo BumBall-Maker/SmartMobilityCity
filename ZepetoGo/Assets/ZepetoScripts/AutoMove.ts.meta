@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 647fdc6f0add8ab4d86b4ff6a089c1d7
+importerOverride: ZEPETO.Script.Compiler:ZEPETO.Script:TypescriptAssetImporter
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: -1123457745, guid: 54cf806323ffe4418a4ce4cc63fe6b9d, type: 3}
+  isAssemblyDeclarations: 0
+  assembly: 
+  generateAllTypes: 1
+  types: []
+  generateWrapper: 0
+  overrideWrapperTypes: 0
+  wrapperTypes: []
+  WrapperFilters: []
+  wrapperOutputDirectory: Generated
+  compiledResult: '{"source":"\"use strict\";\r\nObject.defineProperty(exports, \"__esModule\",
+    { value: true });\r\nconst ZEPETO_Script_1 = require(\"ZEPETO.Script\");\r\nconst
+    UnityEngine_AI_1 = require(\"UnityEngine.AI\");\r\nclass AutoMove extends ZEPETO_Script_1.ZepetoScriptBehaviour
+    {\r\n    Awake() {\r\n        this.agent = this.GetComponent($typeof(UnityEngine_AI_1.NavMeshAgent));\r\n       
+    this.move = false;\r\n    }\r\n    Update() {\r\n        if (this.move == true)
+    {\r\n            this.agent.SetDestination(this.target.position);\r\n       
+    }\r\n    }\r\n}\r\nexports.default = AutoMove;\r\n//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQXV0b01vdmUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJBdXRvTW92ZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUFBLGlEQUFxRDtBQUNyRCxtREFBdUQ7QUFHdkQsTUFBcUIsUUFBUyxTQUFRLHFDQUFxQjtJQU92RCxLQUFLO1FBQ0QsSUFBSSxDQUFDLEtBQUssR0FBRyxJQUFJLENBQUMsWUFBWSxTQUFDLDZCQUFZLEVBQUcsQ0FBQztRQUMvQyxJQUFJLENBQUMsSUFBSSxHQUFHLEtBQUssQ0FBQztJQUN0QixDQUFDO0lBQ0QsTUFBTTtRQUNGLElBQUcsSUFBSSxDQUFDLElBQUksSUFBSSxJQUFJLEVBQ3BCO1lBQ0EsSUFBSSxDQUFDLEtBQUssQ0FBQyxjQUFjLENBQUMsSUFBSSxDQUFDLE1BQU0sQ0FBQyxRQUFRLENBQUMsQ0FBQztTQUMvQztJQUNMLENBQUM7Q0FFSjtBQWxCRCwyQkFrQkMifQ==","assetPath":"Assets/ZepetoScripts/AutoMove.ts","manifest":{"properties":[{"assembly":"UnityEngine.CoreModule","name":"target","type":"UnityEngine.Transform","isArray":false,"initValue":[],"enumKeys":[],"enumValues":[],"attributes":[]},{"assembly":"mscorlib","name":"move","type":"System.Boolean","isArray":false,"initValue":[],"enumKeys":[],"enumValues":[],"attributes":[]}],"name":"AutoMove","description":""},"isCompiled":true}'
+  typescriptHash: 80452a195dc7925abfcb69a7f3620eed
+  onlyWriteTrigger: 0

@@ -1,0 +1,699 @@
+[World Settings]
+world id             com.company.smartmobilityworld
+version              0.1                 
+max clients          8                   
+orientation          horizontal          
+disable invite       false               
+disable room list    false               
+disable private room false               
+
+[Build Manifest]
+[scenes]
+27 mb                assets/final_scenes/final_assemble.unity
+[assets]
+26 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/interactivefurniture/clock_05-2.fbx
+81 kb                assets/asset/coffeeshopstarterpack/models/pw_cupcake_redvelvet.fbx
+21 kb                assets/asset/lowpolyinterior2/models/interior/room/bedtable3_c3_02.fbx
+7 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/door-03.prefab
+734 kb               packages/zepeto.buildit.common/common/world_ap_commons/data/texture/ap_texturemap_001.png
+8 kb                 assets/asset/lowpolyinterior2/materials/lowpolyinterior2_main.mat
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/room/bed3_c1.prefab
+18 kb                assets/asset/lowpolyinterior2/models/exterior/roof/roof3_c1_02.fbx
+19 kb                assets/asset/lowpolyinterior2/models/exterior/walls/wall1/wall1_c1_05.fbx
+35 kb                packages/zepeto.character.controller/runtime/_resources/inputactions/zepetoinputcontrol.inputactions
+745 b                assets/3d modular sci-fi environment pack/materials/silver2s.mat
+60 kb                assets/asset/lowpolyinterior2/models/interior/room/sofa1_c2.fbx
+739 kb               packages/zepeto.buildit.wedding/data/tree1/data/wd_tree_001.prefab
+28 kb                assets/asset/lowpolyinterior2/models/interior/props/globe_01.fbx
+29 kb                assets/asset/lowpolyinterior2/models/interior/props/clothes1_c1.fbx
+11 kb                assets/tablele.prefab
+13 kb                assets/asset/lowpolyinterior2/prefabs/interior/bathroom/washer_01.prefab
+24 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/cup2_c3.fbx
+25 kb                assets/3d modular sci-fi environment pack/models/lamp-01.fbx
+1 mb                 packages/zepeto.character.controller/runtime/_resources/animations/base/walk.anim
+769 b                assets/3d modular sci-fi environment pack/materials/silver1s.mat
+772 b                assets/3d modular sci-fi environment pack/materials/silver4s.mat
+21 kb                assets/asset/lowpolyinterior2/models/exterior/floor/floor19_01.fbx
+3 mb                 assets/bgmzepeto.mp3
+896 b                assets/3d modular sci-fi environment pack/materials/light1s.mat
+17 kb                assets/3d modular sci-fi environment pack/models/glass.fbx
+953 b                assets/3d modular sci-fi environment pack/materials/trans_holo.mat
+786 kb               assets/fbx/carchargingpoint_color.jpeg
+17 mb                assets/fbx/tram03.fbx
+88 kb                assets/lowpolyassetbundle/lowpolymegapolis/models/buildings/suburbhouse_01.fbx
+19 kb                assets/3d modular sci-fi environment pack/models/lamp-09.fbx
+16 kb                assets/3d modular sci-fi environment pack/models/book-01.fbx
+27 kb                packages/zepeto.character.controller/runtime/_resources/prefabs/uicontroller_touchpad_horizontal.prefab
+65 kb                assets/fountain/textures/watersplash_tex.png
+29 kb                assets/asset/coffeeshopstarterpack/models/pw_orangejuice.fbx
+28 kb                assets/asset/lowpolyinterior2/models/interior/props/clothes7_c3.fbx
+546 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/landingroll.anim
+2 kb                 assets/material/floor.mat
+2 kb                 assets/solarpanel/assets/materials/panelmetal.mat
+19 kb                assets/asset/lowpolyinterior2/models/exterior/doors/doorframe_04.fbx
+27 kb                packages/zepeto.character.controller/runtime/_resources/prefabs/uicontroller_touchpad_vertical.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/exterior/floor/floor13_01.prefab
+2 kb                 assets/cream.mat    
+1 kb                 packages/com.unity.inputsystem/inputsystem/editor/icons/inputsystemuiinputmodule@64.png
+21 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/bathroomdoor_c1_04.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/kitchenprops/cup2_c3.prefab
+21 kb                assets/asset/lowpolyinterior2/models/exterior/walls/wall1/wall1_c1_09.fbx
+2 mb                 assets/fbx/trammodeling.fbx
+34 kb                assets/asset/lowpolyinterior2/models/interior/food/cupcake_01.fbx
+2 kb                 assets/3d modular sci-fi environment pack/materials/trans.mat
+109 kb               assets/asset/coffeeshopstarterpack/models/pw_display02.fbx
+52 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/kithcenobjects/cupcake.fbx
+34 kb                assets/3d modular sci-fi environment pack/models/flask 01.fbx
+2 kb                 assets/asset/coffeeshopstarterpack/materials/transparan.mat
+904 b                assets/3d modular sci-fi environment pack/materials/light3s.mat
+9 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/vase-03a.prefab
+20 kb                assets/asset/lowpolyinterior2/models/interior/room/shelf_07.fbx
+26 kb                assets/3d modular sci-fi environment pack/prefabs/color 03/vase-01c.prefab
+29 kb                assets/asset/lowpolyinterior2/models/interior/props/clothes1_c4.fbx
+13 kb                assets/rjui/house-popup01.png
+36 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/darts.fbx
+62 kb                packages/zepeto.character.controller/runtime/_resources/animations/base/gesture.anim
+472 kb               assets/fbx/circleroad01.fbx
+960 b                assets/material/materials/materials/ttam.mat
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/carpet1_c1.prefab
+2 kb                 assets/material/grass.mat
+49 kb                assets/3d modular sci-fi environment pack/models/wall mounted display.fbx
+37 kb                assets/igblocks/subwaystationspack/models/bench01a.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/clothes6_c2.prefab
+21 kb                assets/3d modular sci-fi environment pack/models/box-e.fbx
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/flowers/flower_03.prefab
+770 b                assets/3d modular sci-fi environment pack/materials/green1s.mat
+4 mb                 assets/solarpanel/assets/textures/railsmetal/railmetalcolor.png
+27 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/chair_04_c1.fbx
+20 kb                assets/asset/lowpolyinterior2/models/interior/room/wardrobe4_c1_03.fbx
+24 kb                assets/3d modular sci-fi environment pack/models/window-06.fbx
+7 kb                 assets/lowpolyassetbundle/lowpolymegapolis/materials/lowpolymegapolis_light.mat
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/plants/plant_09.prefab
+770 b                assets/3d modular sci-fi environment pack/materials/blue4s.mat
+26 kb                assets/3d modular sci-fi environment pack/models/box-f-01.fbx
+2 kb                 assets/naturemanufacture assets/advanced foliage pack/ground textures/materials/ground.mat
+4 kb                 packages/zepeto.buildit.city/road sign 1.prefab
+560 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/idle.anim
+2 kb                 assets/igblocks/subwaystationspack/prefabssubwaystations/ticketmachine01b.prefab
+30 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/library.fbx
+22 kb                assets/asset/lowpolyinterior2/models/interior/room/tv_table2_c1_02.fbx
+21 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/kitchenprops_17.fbx
+89 kb                assets/asset/coffeeshopstarterpack/models/pw_frenchtoast_orange.fbx
+231 kb               assets/asset/coffeeshopstarterpack/test/screenshots/pw_croissant.png
+3 kb                 packages/zepeto.buildit.common/common/world-resource-common/data/[fx]/shader/fx_basic_additive.shader
+91 kb                assets/asset/lowpolyinterior2/models/interior/props/car_01.fbx
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/book-02.prefab
+26 mb                assets/naturemanufacture assets - trials not full resolution/easyroads-hd_add_on/road textures/t_array_roads_n.asset
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/book_03.prefab
+2 kb                 assets/material/brick.mat
+28 mb                assets/fbx/autodrivecar.obj.fbx
+4 kb                 packages/zepeto.buildit.city/flowerpot 4.prefab
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/notebook_03.prefab
+132 kb               assets/book.prefab  
+2 kb                 assets/lowpolyassetbundle/lowpolymegapolis/prefabs/props/umbrella_06.prefab
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/box.prefab
+23 kb                assets/asset/lowpolyinterior2/models/exterior/windows/window1_03.fbx
+5 mb                 assets/solarpanel/assets/textures/structuremetal/structuremetalcolor.png
+295 kb               packages/zepeto.character.controller/runtime/_resources/animatorcontroller/zepetoanimatorv2.controller
+7 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/lights 03/light-10.prefab
+20 kb                assets/asset/coffeeshopstarterpack/models/pw_cupboard_corner.fbx
+828 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/moveturn.anim
+13 kb                assets/asset/lowpolyinterior2/prefabs/interior/room/tv_table2_c1.prefab
+43 kb                assets/asset/lowpolyinterior2/models/exterior/terrace/terrace4_c1.fbx
+4 kb                 packages/zepeto.buildit.city/flowerpot 5.prefab
+67 kb                assets/3d modular sci-fi environment pack/models/table-drawer.fbx
+17 kb                assets/3d modular sci-fi environment pack/models/floor-05.fbx
+2 kb                 assets/fbx/materials/internal_ground_ao_texture.mat
+2 kb                 assets/windridge city assets/staticobjects/models/foliage/vegetation/bushes/materials/sassafras bunch big.mat
+20 kb                assets/asset/lowpolyinterior2/models/interior/room/wardrobe4_c1_02.fbx
+27 kb                assets/asset/lowpolyinterior2/models/interior/props/clothes6_c3.fbx
+2 kb                 assets/igblocks/subwaystationspack/models/materials/ticketmachine01b.mat
+52 kb                assets/fbx/carchargingpoint.fbx
+1 mb                 packages/zepeto.character.controller/runtime/_resources/animations/base/jump_idle.anim
+26 mb                assets/naturemanufacture assets - trials not full resolution/easyroads-hd_add_on/road textures/t_array_roads_a_t.asset
+89 kb                assets/lowpolyassetbundle/lowpolymegapolis/models/buildings/suburbhouse_02.fbx
+2 kb                 packages/zepeto.character.controller/runtime/_resources/animations/ui/controller/touchpad_handle_origin_off.anim
+25 kb                assets/lowpolyassetbundle/lowpolymegapolis/models/props/umbrella_06.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/bathroom/towel_05.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/car_01.prefab
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/glass.prefab
+2 kb                 assets/material/steel.mat
+61 kb                assets/asset/coffeeshopstarterpack/models/pw_plate02.fbx
+1 kb                 assets/3d modular sci-fi environment pack/demo scenes/animation/camera (demo scene 03).controller
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/picture_01.prefab
+4 kb                 packages/zepeto.buildit.wedding/tree4.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/globe_01.prefab
+5 kb                 packages/zepeto.character.controller/runtime/_resources/images/touchpad_handle_icon.png
+22 kb                assets/asset/lowpolyinterior2/models/exterior/stairs/stairspart1_c3.fbx
+4 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/lights 03/light-09b.prefab
+24 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/cup2_c5.fbx
+88 kb                packages/zepeto.buildit.themepark/data/bench/data/ap_bench.prefab
+5 kb                 packages/zepeto.character.controller/runtime/_resources/images/touchpad_jump_icon.png
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/plants/plant_17.prefab
+29 kb                assets/3d modular sci-fi environment pack/models/treasure box-01.fbx
+27 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/kitchen/kitchentabletop1_08.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/kitchenprops/chair_04_c1.prefab
+3 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/console table.prefab
+32 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/coffee_02.fbx
+761 b                assets/3d modular sci-fi environment pack/materials/gold1s.mat
+919 b                assets/material/materials/materials/self.mat
+6 kb                 assets/naturemanufacture assets - trials not full resolution/easyroads-hd_add_on/shaders/decal_metalic_road_shader parallax arraytrial.shader
+34 kb                packages/zepeto.buildit.wedding/data/tree4/data/wd_tree_004_col.prefab
+2 kb                 assets/naturemanufacture assets/advanced foliage pack/ground textures/materials/water.mat
+10 kb                assets/asset/lowpolyinterior2/prefabs/interior/props/clock1_c3.prefab
+136 kb               assets/3d modular sci-fi environment pack/models/flask set.fbx
+23 kb                assets/3d modular sci-fi environment pack/models/floor-03.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/kitchenprops/paper_01.prefab
+22 kb                assets/optical-illusions/source/02_3december2020-optical-illusions.fbx
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/kitchenobjects/plate_01.prefab
+18 mb                assets/hl_smartcity01.prefab
+1 kb                 assets/3d modular sci-fi environment pack/materials/trans2s.mat
+51 kb                assets/lowpolyassetbundle/lowpolymegapolis/models/nature/plant_02.fbx
+21 kb                assets/asset/lowpolyinterior2/models/interior/room/bedtable3_c3.fbx
+32 kb                assets/igblocks/subwaystationspack/models/ticketmachine01b.fbx
+18 kb                assets/3d modular sci-fi environment pack/models/wall-05b.fbx
+19 kb                assets/rjui/car-popup02.png
+2 kb                 assets/asset/coffeeshopstarterpack/materials/basic_plant.mat
+175 kb               assets/asset/lowpolyinterior2/models/interior/room/bed3_c1.fbx
+23 kb                assets/3d modular sci-fi environment pack/models/wall-02b.fbx
+23 kb                assets/asset/lowpolyinterior2/models/exterior/floor/floor1_01.fbx
+12 kb                assets/3d modular sci-fi environment pack/textures/plant-02.png
+14 kb                assets/final_scenes/final_assemble/navmesh.asset
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/plants/vase_02.prefab
+426 kb               assets/naturemanufacture assets - trials not full resolution/easyroads-hd_add_on/road textures/texturescom_concrete_withpebbles_1x1_512_ao.tif
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/box-d.prefab
+140 kb               packages/zepeto.buildit.city/data/flowerpot 4/data/sa_planter_04.prefab
+26 kb                assets/3d modular sci-fi environment pack/models/wall-04b.fbx
+19 kb                assets/asset/lowpolyinterior2/models/exterior/walls/wall1/wall1_c1_02.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/room/pc_chair1_c2.prefab
+3 mb                 assets/_bad_raccoon/_3d flowers plants vol 1/textures/plant_atlas_01_norm.png
+21 kb                assets/asset/lowpolyinterior2/models/exterior/windows/window1_01.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/reward_03.prefab
+8 kb                 assets/asset/lowpolyinterior2/materials/lowpolyinterior2_light.mat
+116 kb               assets/material/123456789674534425657.jpg
+3 kb                 assets/naturemanufacture assets - trials not full resolution/easyroads-hd_add_on/road materials/dirty road/m_dirty_road.mat
+22 kb                assets/asset/lowpolyinterior2/models/interior/room/dresser3_c3.fbx
+28 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/picture_01.fbx
+431 kb               assets/windridge city assets/staticobjects/models/buildings/bridges/bridge2.fbx
+30 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/kithcenobjects/plate_01.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/bathroom/carpet_03.prefab
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/book_04.prefab
+25 kb                assets/asset/lowpolyinterior2/models/interior/props/reward_02.fbx
+71 kb                assets/asset/coffeeshopstarterpack/models/pw_cupcake_chocolattechips.fbx
+29 kb                assets/asset/coffeeshopstarterpack/models/pw_cupboard_narrow.fbx
+21 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/towel_05.fbx
+20 kb                assets/asset/lowpolyinterior2/models/interior/props/reward_03.fbx
+55 kb                assets/material/materials/drone.png
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/wall-06.prefab
+44 kb                assets/asset/lowpolyinterior2/models/interior/plants/plant_13.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/plants/vase_01.prefab
+23 kb                assets/asset/lowpolyinterior2/models/interior/room/smalltable_01_c1.fbx
+182 kb               assets/fbx/dronroad02.fbx
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/flask set.prefab
+100 kb               assets/asset/lowpolyinterior2/models/interior/plants/plant_18.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/exterior/walls/wall1/wall1_c1_05.prefab
+14 mb                assets/fbx/ddp02.fbx
+82 kb                assets/asset/coffeeshopstarterpack/models/pw_croissant.fbx
+2 kb                 assets/lowpolyassetbundle/lowpolymegapolis/prefabs/buildings/suburbhouse_01.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/clothes1_c2.prefab
+35 kb                assets/asset/coffeeshopstarterpack/models/pw_fridge.fbx
+18 kb                assets/a.png        
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/officeprops_01.prefab
+201 mb               assets/fbx/mall final02.fbx
+1 mb                 assets/material/texturescom_concrete_withpebbles_1x1_512_albedo.tif
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/tv_03.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/clothes1_c4.prefab
+13 kb                assets/3d modular sci-fi environment pack/prefabs/color 03/vase-01b.prefab
+43 kb                assets/fbx/autodrivecar.obj (2).prefab
+40 kb                assets/3d modular sci-fi environment pack/textures/plant-04.png
+105 kb               assets/asset/coffeeshopstarterpack/models/pw_frenchtoast_olives.fbx
+62 kb                packages/zepeto.character.controller/runtime/_resources/animations/base/action2.anim
+14 kb                packages/zepeto.buildit.common/common/020_stadium-common/data/texture/fxt_targetcircle_01.png
+17 kb                assets/3d modular sci-fi environment pack/models/wall-01.fbx
+23 kb                assets/asset/lowpolyinterior2/models/interior/props/tv_05.fbx
+13 kb                assets/a1.prefab    
+29 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/book_01.fbx
+19 kb                assets/asset/lowpolyinterior2/models/interior/room/pc_table2_c2_02.fbx
+1 mb                 assets/igblocks/subwaystationspack/textures/bench01a_nm.png
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/room/smalltable_01_c2.prefab
+7 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/holo display a.prefab
+7 kb                 packages/zepeto.character.controller/runtime/_resources/animatorcontroller/uicontrollertouchpadhandle.controller
+86 kb                assets/asset/coffeeshopstarterpack/models/pw_frenchtoast_egg.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/carpet4_c3.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/plants/plant_01.prefab
+11 kb                assets/3d modular sci-fi environment pack/prefabs/color 03/vase-05a.prefab
+461 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/movewalkfast.anim
+16 kb                assets/3d modular sci-fi environment pack/models/box-d.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/clothes4_c6.prefab
+248 kb               assets/3d modular sci-fi environment pack/textures/screen01.png
+769 b                assets/3d modular sci-fi environment pack/materials/purple1s.mat
+12 kb                packages/zepeto.character.controller/runtime/_resources/images/touchpad_jump_base.png
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/treasure box-01.prefab
+29 kb                assets/3d modular sci-fi environment pack/prefabs/color 03/vase-07a.prefab
+19 kb                assets/3d modular sci-fi environment pack/models/lamp-10.fbx
+13 kb                packages/zepeto.buildit.city/data/tree 1/data/sa_tree_001_col.prefab
+3 kb                 packages/zepeto.buildit.common/common/world_ap_commons/data/texture/ap_window_001_a.png
+52 kb                assets/windridge city assets/staticobjects/models/foliage/vegetation/bushes/elegantbush/elegantbush.fbx
+36 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/notebook_01.fbx
+2 mb                 assets/tv_kiosk.fbx 
+23 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/table_04_c1.fbx
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/notebook_01.prefab
+20 kb                assets/asset/lowpolyinterior2/models/interior/props/book_03.fbx
+18 kb                assets/asset/lowpolyinterior2/models/exterior/doors/door1_c2.fbx
+2 kb                 assets/rjui/next_btn.png
+1 mb                 assets/fountain/textures/fountain_base_tex.png
+754 b                assets/3d modular sci-fi environment pack/materials/crimson4s.mat
+23 kb                assets/3d modular sci-fi environment pack/models/tablet with stand.fbx
+26 kb                assets/asset/lowpolyinterior2/models/interior/room/wardrobe5_c1.fbx
+15 kb                assets/sofa.prefab  
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/floor-01.prefab
+746 b                assets/3d modular sci-fi environment pack/materials/crimson3s.mat
+1 mb                 assets/igblocks/subwaystationspack/textures/ticketmachine01b.png
+755 b                assets/3d modular sci-fi environment pack/materials/crimson2s.mat
+24 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/chair_03_c2.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/painting_12.prefab
+75 kb                assets/_bad_raccoon/_3d flowers plants vol 1/meshes/plant_07.fbx
+56 kb                assets/3d modular sci-fi environment pack/models/stairs-01.fbx
+34 kb                assets/asset/lowpolyinterior2/models/interior/props/clothes4_c6.fbx
+78 kb                assets/asset/coffeeshopstarterpack/models/pw_doughnut_pink.fbx
+32 kb                assets/asset/coffeeshopstarterpack/models/pw_lemonade.fbx
+13 kb                assets/lowpolyassetbundle/lowpolymegapolis/textures/lowpolymegapolis_texture_01.png
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/clothes1_c5.prefab
+32 kb                assets/asset/lowpolyinterior2/models/interior/plants/vase_02.fbx
+20 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/bathroom_c1_05.fbx
+6 kb                 packages/zepeto.buildit.wedding/plant2.prefab
+31 kb                assets/3d modular sci-fi environment pack/models/vase-06.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/bathroom/mirror_01_c1.prefab
+3 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/window-03.prefab
+2 kb                 packages/zepeto.buildit.common/common/world_ap_commons/data/ap_tile_003.mat
+76 kb                assets/asset/lowpolyinterior2/models/interior/plants/plant_17.fbx
+116 kb               assets/3d modular sci-fi environment pack/prefabs/color 03/teleport pad (particle).prefab
+50 kb                assets/3d modular sci-fi environment pack/textures/plant-03.png
+769 b                assets/3d modular sci-fi environment pack/materials/blue2s.mat
+28 kb                assets/3d modular sci-fi environment pack/models/hologram monitor.fbx
+920 b                assets/material/materials/materials/smart.mat
+2 mb                 assets/_bad_raccoon/_3d flowers plants vol 1/textures/plant_atlas_02_norm.png
+23 kb                assets/asset/lowpolyinterior2/models/exterior/doors/doorhandle1_c2.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/book_08.prefab
+26 kb                assets/3d modular sci-fi environment pack/models/vase-05.fbx
+4 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/lights 03/light-09c.prefab
+22 kb                assets/asset/lowpolyinterior2/models/exterior/windows/window6_01.fbx
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/kitchenobjects/toaster.prefab
+2 kb                 assets/fbx/water.mat
+5 kb                 assets/asset/lowpolyinterior2/prefabs/exterior/windows/window1_03.prefab
+2 kb                 packages/zepeto.buildit.common/common/world_commons/data/colortexture_001.mat
+62 kb                packages/zepeto.buildit.wedding/data/tree2/data/wd_tree_002_col.prefab
+18 kb                assets/asset/lowpolyinterior2/models/exterior/walls/wall1/wall1_c1_01.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/plants/plant_13.prefab
+29 kb                assets/asset/lowpolyinterior2/models/interior/room/tv_table2_c1.fbx
+86 kb                assets/asset/coffeeshopstarterpack/models/pw_cupcake_cherry.fbx
+30 kb                assets/3d modular sci-fi environment pack/models/window-03.fbx
+21 kb                assets/asset/lowpolyinterior2/models/interior/room/dresser2_c3.fbx
+18 kb                assets/asset/lowpolyinterior2/models/interior/props/carpet4_c3.fbx
+29 kb                packages/zepeto.buildit.city/data/road sign 1/data/sa_raodsign_001.prefab
+1 mb                 assets/solarpanel/assets/model/solarpanel.fbx
+10 kb                packages/zepeto.buildit.themepark/data/stepstone/data/ap_stepstone.prefab
+618 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/jumpidle.anim
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/bathroom/carpet_01.prefab
+451 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/stamp.anim
+2 kb                 assets/asset/lowpolyinterior2/prefabs/exterior/walls/wall1/wall1_c1_01.prefab
+2 kb                 assets/igblocks/subwaystationspack/models/materials/bench01a.mat
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/floor-06.prefab
+3 mb                 assets/_bad_raccoon/_3d flowers plants vol 1/textures/plant_atlas_02.png
+770 b                assets/3d modular sci-fi environment pack/materials/white1s.mat
+14 kb                assets/asset/lowpolyinterior2/prefabs/interior/room/wardrobe5_c1.prefab
+16 mb                assets/naturemanufacture assets/advanced foliage pack/ground textures/t_ground_grass_01_4_a_sm.tga
+38 kb                assets/asset/lowpolyinterior2/models/exterior/chimney/chimney1_c4.fbx
+27 kb                assets/lowpolyassetbundle/lowpolymegapolis/models/props/flowerbed_01.fbx
+27 kb                assets/asset/lowpolyinterior2/models/interior/props/clothes6_c2.fbx
+1 mb                 assets/naturemanufacture assets - trials not full resolution/easyroads-hd_add_on/road textures/texturescom_concrete_withpebbles_1x1_512_albedo.tif
+2 kb                 assets/fbx/materials/newtry_outside_diffuse.mat
+28 kb                assets/asset/coffeeshopstarterpack/models/pw_display_cube02.fbx
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/kitchenobjects/cup_06.prefab
+2 kb                 assets/solarpanel/assets/materials/panel.mat
+60 kb                packages/zepeto.buildit.city/data/table/data/sa_table_001.prefab
+43 kb                assets/fbx/autodrivecar.obj.prefab
+768 b                assets/3d modular sci-fi environment pack/materials/blue1s.mat
+46 kb                assets/asset/lowpolyinterior2/models/interior/room/pc_chair1_c2.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/kitchenprops/cup3_c2.prefab
+1 mb                 packages/zepeto.character.controller/runtime/_resources/animations/base/v2/movewalk.anim
+32 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/coffeemachine_02.fbx
+119 kb               assets/asset/coffeeshopstarterpack/models/pw_sculent02_s.fbx
+35 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/kithcenobjects/toaster.fbx
+1014 kb              packages/zepeto.character.controller/runtime/_resources/animations/base/v2/idle.anim
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/medikit.prefab
+1 mb                 packages/zepeto.character.controller/runtime/_resources/animations/base/fall_end.anim
+100 kb               packages/zepeto.buildit.wedding/data/plant2/data/wd_plant_02.prefab
+256 kb               assets/asset/coffeeshopstarterpack/models/pw_sculent01_m.fbx
+2 kb                 assets/material/ddp.mat
+3 kb                 packages/zepeto.buildit.common/common/020_stadium-common/data/texture/fxt_star_02.png
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/tv_05.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/carpet1_c2.prefab
+428 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/hand_idle_01.anim
+23 kb                assets/asset/lowpolyinterior2/models/interior/room/pc_table2_c2.fbx
+31 kb                packages/com.unity.inputsystem/inputsystem/plugins/playerinput/defaultinputactions.inputactions
+104 kb               assets/asset/coffeeshopstarterpack/models/pw_display04.fbx
+19 kb                assets/asset/lowpolyinterior2/models/interior/props/tv_03.fbx
+48 kb                assets/3d modular sci-fi environment pack/models/window-01b.fbx
+3 kb                 packages/zepeto.character.controller/runtime/_resources/animations/ui/controller/touchpad_handle_origin_ziggle.anim
+2 kb                 packages/zepeto.character.controller/runtime/_resources/animations/ui/controller/touchpad_handle_off.anim
+67 kb                assets/lowpolyassetbundle/lowpolymegapolis/models/props/pot_01.fbx
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/kitchenobjects/pizza_02.prefab
+2 kb                 assets/pink.mat     
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/room/sofa1_c2.prefab
+1 mb                 assets/fbx/s9 drone.fbx
+25 kb                assets/asset/lowpolyinterior2/models/interior/light/light_13.fbx
+1 mb                 assets/solarpanel/assets/textures/railsmetal/railmetalroughness.png
+600 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/landingslight.anim
+32 kb                assets/3d modular sci-fi environment pack/models/door-03.fbx
+7 kb                 packages/zepeto.buildit.city/tree 1.prefab
+36 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/notebook_02.fbx
+19 kb                assets/3d modular sci-fi environment pack/models/floor-06.fbx
+770 b                assets/3d modular sci-fi environment pack/materials/dark1s.mat
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/kitchenprops/cup1_c3.prefab
+2 kb                 assets/solarpanel/assets/materials/railmetalmaterial.mat
+2 kb                 assets/lowpolyassetbundle/lowpolymegapolis/prefabs/props/pot_01.prefab
+51 kb                assets/3d modular sci-fi environment pack/models/window-02.fbx
+97 kb                assets/asset/coffeeshopstarterpack/models/pw_display01.fbx
+56 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/towelrail_03.fbx
+21 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/ventilation_01.fbx
+2 kb                 assets/rjui/ok_btn.png
+781 b                assets/3d modular sci-fi environment pack/materials/trans1s.mat
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/floor-05.prefab
+2 kb                 assets/white.mat    
+7 mb                 assets/fbx/textures/newtry_outside_diffuse.png
+1 mb                 assets/fountain/textures/fountain_water_tex.png
+20 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/mirror_01_c1.fbx
+1 mb                 packages/zepeto.character.controller/runtime/_resources/animations/base/jump_move.anim
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/clothes1_c1.prefab
+15 kb                assets/3d modular sci-fi environment pack/models/wall-03b.fbx
+208 kb               assets/solarpanel/assets/gamereadyprefab/solarpanel.prefab
+39 kb                assets/3d modular sci-fi environment pack/models/medikit.fbx
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/wall-01.prefab
+80 kb                assets/asset/coffeeshopstarterpack/models/pw_cupcake_oreo.fbx
+20 kb                assets/asset/lowpolyinterior2/models/exterior/doors/streetdoorframe_02.fbx
+37 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/bathroom_c1_02.fbx
+6 kb                 packages/zepeto.buildit.city/tree 2.prefab
+112 kb               assets/_bad_raccoon/_3d flowers plants vol 1/meshes/waterlily_flower_01.fbx
+98 kb                assets/asset/coffeeshopstarterpack/models/pw_frenchtoas_cherry_tomato.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/room/shelf_07.prefab
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/picture_02.prefab
+47 kb                assets/3d modular sci-fi environment pack/models/console table.fbx
+2 kb                 assets/lowpolyassetbundle/lowpolymegapolis/prefabs/props/flowerbed_01.prefab
+6 kb                 assets/asset/lowpolyinterior2/prefabs/interior/room/bedtable3_c3.prefab
+18 kb                assets/asset/lowpolyinterior2/models/interior/props/carpet1_c1.fbx
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/window-02.prefab
+1 mb                 assets/solarpanel/assets/textures/railsmetal/railmetaldisplacement.png
+8 kb                 packages/zepeto.buildit.wedding/data/plant2/data/wd_plant_02_collider.prefab
+29 kb                assets/asset/lowpolyinterior2/models/interior/props/clothes1_c2.fbx
+280 mb               assets/fbx/maintower02.fbx
+78 kb                assets/material/materials/ttam.png
+29 kb                assets/3d modular sci-fi environment pack/textures/plant-01.png
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/bathroom/ventilation_01.prefab
+8 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/lights 03/light-07.prefab
+442 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/jumpmove.anim
+16 kb                assets/3d modular sci-fi environment pack/models/table-01.fbx
+18 kb                assets/3d modular sci-fi environment pack/models/vase-03.fbx
+32 kb                assets/asset/lowpolyinterior2/models/interior/props/book_08.fbx
+18 kb                assets/asset/lowpolyinterior2/models/interior/props/painting_12.fbx
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/book-01.prefab
+18 kb                packages/zepeto.character.controller/runtime/_resources/animatorcontroller/zepetoanimator.controller
+21 kb                assets/asset/lowpolyinterior2/models/interior/room/dresser3_c3_02.fbx
+2 kb                 packages/zepeto.buildit.common/common/world_ap_commons/data/ap_window_001.mat
+50 kb                assets/3d modular sci-fi environment pack/models/ladder.fbx
+58 kb                assets/asset/coffeeshopstarterpack/models/pw_cheesecake_chocolatte.fbx
+26 kb                assets/3d modular sci-fi environment pack/models/window-06-right.fbx
+27 kb                assets/asset/lowpolyinterior2/models/interior/props/officeprops_01.fbx
+5 mb                 assets/solarpanel/assets/textures/structuremetal/structuremetalnormalmap.png
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/floor-02.prefab
+22 kb                assets/asset/lowpolyinterior2/models/interior/room/wardrobe4_c1_04.fbx
+30 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/interactivefurniture/clock_05.fbx
+44 kb                assets/asset/lowpolyinterior2/models/interior/plants/plant_11.fbx
+5 kb                 assets/fbx/internal_ground_ao_texture.jpeg
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/reward_02.prefab
+3 kb                 assets/_bad_raccoon/_3d flowers plants vol 1/meshes/materials/plant_atlas_01.mat
+53 kb                assets/3d modular sci-fi environment pack/models/holo display.fbx
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/library.prefab
+21 kb                assets/asset/lowpolyinterior2/models/exterior/doors/door2_c4.fbx
+19 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/plate1_c1.fbx
+46 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/flowers/flower_03.fbx
+3 kb                 packages/zepeto.buildit.common/common/cooltime_commons/data/builditmorp.shader
+53 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/kithcenobjects/pizza_02.fbx
+4 kb                 packages/zepeto.buildit.themepark/ice cream 2.prefab
+49 kb                assets/asset/lowpolyinterior2/models/interior/plants/plant_01.fbx
+44 kb                assets/asset/lowpolyinterior2/models/exterior/stairs/stairs1_c2.fbx
+2 kb                 assets/lowpolyassetbundle/lowpolymegapolis/prefabs/props/lantern_01.prefab
+1 mb                 assets/naturemanufacture assets - trials not full resolution/easyroads-hd_add_on/road textures/texturescom_concrete_withpebbles_1x1_512_normal 1.tif
+12 kb                assets/room.prefab  
+10 mb                assets/naturemanufacture assets/advanced foliage pack/ground textures/t_ground_forest_dirt_01_n.png
+29 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/book_03.fbx
+18 kb                assets/asset/lowpolyinterior2/models/interior/props/painting_11.fbx
+13 kb                assets/rjui/car-popup01.png
+26 kb                assets/3d modular sci-fi environment pack/models/window-06-left.fbx
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/kitchenobjects/cupcake.prefab
+82 kb                packages/zepeto.buildit.wedding/data/tree4/data/wd_tree_004.prefab
+832 kb               assets/export/scene_three.prefab
+374 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/moverunfast.anim
+26 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/cup1_c3.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/book_03.prefab
+31 kb                assets/_bad_raccoon/_3d flowers plants vol 1/meshes/plant_02.fbx
+920 b                assets/material/materials/materials/drone.mat
+2 kb                 assets/free stylized skybox/cubemap/materials/sky_anime_03_day_a.mat
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/kitchenprops/kitchenprops_17.prefab
+11 kb                packages/zepeto.buildit.themepark/data/stone/data/ap_stone_m.prefab
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/pillar-01.prefab
+32 kb                packages/zepeto.buildit.themepark/data/plant c1/data/ap_plant_c001.prefab
+416 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/moverun.anim
+19 kb                assets/asset/lowpolyinterior2/models/exterior/walls/wall1/wall1_c1_03.fbx
+4 mb                 assets/naturemanufacture assets/advanced foliage pack/ground textures/t_ground_forest_dirt_01_ao.tga
+53 kb                packages/zepeto.buildit.wedding/data/tree3/data/wd_tree_003.prefab
+26 kb                assets/3d modular sci-fi environment pack/models/lamp-03.fbx
+5 kb                 assets/material/wall.prefab
+28 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/picture_02.fbx
+1 mb                 assets/solarpanel/assets/textures/structuremetal/structuremetalheightmap.png
+17 kb                assets/rjui/house-popup02.png
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/ladder.prefab
+9 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/lights 03/light-03.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/painting_11.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/clothes7_c3.prefab
+80 kb                packages/zepeto.buildit.city/data/tree 1/data/sa_tree_001.prefab
+47 kb                packages/zepeto.buildit.wedding/data/tree3/data/wd_tree_003_col.prefab
+28 kb                assets/3d modular sci-fi environment pack/models/wall-04.fbx
+6 mb                 assets/solarpanel/assets/textures/panel/panelcolor.png
+29 kb                packages/zepeto.buildit.themepark/data/ice cream 2/data/ap_icecreambarrel_002.prefab
+4 mb                 assets/maya2sketchfab.fbx
+27 kb                assets/3d modular sci-fi environment pack/models/pillar-01.fbx
+2 kb                 assets/material/bright.mat
+52 kb                assets/asset/lowpolyinterior2/models/exterior/floor/floor6_01.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/exterior/walls/wall1/wall1_c1_02.prefab
+1 kb                 packages/zepeto.character.controller/runtime/_resources/camera/zepetocamera.prefab
+11 kb                assets/table2.prefab
+26 kb                assets/3d modular sci-fi environment pack/models/chair-02.fbx
+16 mb                assets/naturemanufacture assets/advanced foliage pack/ground textures/t_ground_forest_dirt_01_a_sm.tga
+20 kb                assets/asset/lowpolyinterior2/models/exterior/walls/wall1/wall1_c1_07.fbx
+8 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/materials/lowpolyinterior_main.mat
+5 kb                 packages/zepeto.buildit.common/common/cooltime_commons/data/builditstandard.shader
+60 kb                assets/asset/coffeeshopstarterpack/models/pw_cookie.fbx
+6 kb                 assets/asset/lowpolyinterior2/prefabs/interior/kitchenprops/coffeemachine_02.prefab
+104 kb               assets/material/materials/self.png
+49 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/kithcenobjects/coffeecup.fbx
+29 kb                assets/3d modular sci-fi environment pack/models/lamp-02.fbx
+56 mb                assets/fbx/dummytower02.fbx
+394 kb               assets/material/materials/flight.jpg
+175 kb               assets/asset/coffeeshopstarterpack/models/pw_espressomachine.fbx
+18 kb                assets/asset/lowpolyinterior2/models/interior/props/carpet4_c1.fbx
+21 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/bathroomdoor_c1_03.fbx
+3 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/floor-03.prefab
+19 kb                assets/3d modular sci-fi environment pack/models/floor-01.fbx
+71 kb                assets/asset/coffeeshopstarterpack/models/pw_cup02.fbx
+762 b                assets/solarpanel/assets/textures/structuremetal/structuremetalmetallic.png
+210 kb               packages/zepeto.buildit.themepark/data/plant f1/data/ap_plant_f001.prefab
+87 kb                assets/asset/coffeeshopstarterpack/models/pw_espresso_cup.fbx
+17 kb                assets/3d modular sci-fi environment pack/models/wall-03a.fbx
+464 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/jumpdouble.anim
+12 kb                assets/asset/lowpolyinterior2/textures/interiortexture_01.png
+83 kb                packages/zepeto.buildit.city/data/tree 2/data/sa_tree_002.prefab
+745 b                assets/3d modular sci-fi environment pack/materials/silver3s.mat
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/kitchenprops/table_04_c1.prefab
+22 kb                assets/3d modular sci-fi environment pack/models/lamp-04.fbx
+27 kb                assets/3d modular sci-fi environment pack/models/door-04.fbx
+13 kb                assets/asset/lowpolyinterior2/prefabs/interior/room/dresser2_c3.prefab
+746 b                assets/3d modular sci-fi environment pack/materials/crimson1s.mat
+1 kb                 packages/zepeto.buildit.common/common/020_stadium-common/data/texture/txt_materials/fxt_target_circle_01.mat
+13 kb                packages/zepeto.character.controller/runtime/_resources/images/touchpad_handle_base.png
+733 kb               assets/material/mable.jpg
+5 mb                 assets/fountain/textures/fountain_shaft_water_posters_tex.png
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/props/clothes6_c3.prefab
+2 kb                 assets/blue.mat     
+3 kb                 assets/_bad_raccoon/_3d flowers plants vol 1/meshes/materials/plant_atlas_02.mat
+131 kb               packages/zepeto.buildit.wedding/data/tree1/data/wd_tree_001_col.prefab
+17 kb                assets/3d modular sci-fi environment pack/models/floor-07.fbx
+62 kb                packages/zepeto.character.controller/runtime/_resources/animations/base/action1.anim
+19 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/carpet_03.fbx
+28 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/box.fbx
+6 kb                 assets/asset/lowpolyinterior2/prefabs/interior/bathroom/bathroom_c1_05_r.prefab
+36 kb                assets/table.prefab 
+34 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/kithcenobjects/cup_06.fbx
+18 kb                assets/3d modular sci-fi environment pack/models/glass-02.fbx
+91 kb                assets/material/materials/smart.png
+772 kb               assets/fishhologram.fbx
+2 kb                 packages/zepeto.buildit.common/common/world_ap_commons/data/texture/ap_window_001.png
+24 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/paper_01.fbx
+912 b                assets/3d modular sci-fi environment pack/materials/screen01.mat
+23 kb                assets/3d modular sci-fi environment pack/models/floor-02.fbx
+3 kb                 packages/zepeto.character.controller/runtime/_resources/animations/ui/controller/touchpad_handle_ziggle.anim
+29 kb                assets/asset/lowpolyinterior2/models/interior/props/clothes1_c5.fbx
+16 kb                assets/3d modular sci-fi environment pack/models/book-02.fbx
+2 kb                 packages/zepeto.character.controller/runtime/_resources/animations/ui/controller/touchpad_handle_on.anim
+77 kb                assets/asset/lowpolyinterior2/models/interior/room/sofa8_c1.fbx
+754 b                assets/3d modular sci-fi environment pack/materials/trans5s.mat
+744 b                assets/3d modular sci-fi environment pack/materials/white2s.mat
+9 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/lights 03/light-01.prefab
+762 b                assets/solarpanel/assets/textures/railsmetal/railmetalmetallic.png
+16 kb                assets/house-popup01.png
+9 kb                 assets/asset/lowpolyinterior2/prefabs/exterior/doors/door2_c4.prefab
+35 kb                assets/3d modular sci-fi environment pack/models/vase-01.fbx
+101 kb               assets/asset/coffeeshopstarterpack/models/pw_frenchtoast_strawberry.fbx
+125 kb               packages/zepeto.buildit.city/data/flowerpot 5/data/sa_planter_05.prefab
+4 kb                 packages/zepeto.buildit.city/table.prefab
+4 kb                 packages/zepeto.buildit.wedding/tree2.prefab
+23 kb                assets/asset/lowpolyinterior2/models/interior/room/smalltable_01_c2.fbx
+92 kb                assets/asset/lowpolyinterior2/models/interior/plants/plant_09.fbx
+75 kb                assets/asset/coffeeshopstarterpack/models/pw_doughnut_blacknwhite.fbx
+8 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/textures/texture_01.png
+37 kb                assets/3d modular sci-fi environment pack/models/window-05.fbx
+7 kb                 packages/zepeto.character.controller/runtime/_resources/animatorcontroller/uicontrollertouchpadhandleorigin.controller
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/room/smalltable_01_c1.prefab
+96 kb                assets/asset/coffeeshopstarterpack/models/pw_display03.fbx
+9 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/lights 03/light-09.prefab
+31 mb                assets/fbx/bliuds.fbx
+2 kb                 assets/asset/coffeeshopstarterpack/materials/basic.mat
+27 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/kitchen/kitchentabletop3_04.fbx
+2 kb                 assets/material/ground.mat
+8 kb                 assets/asset/lowpolyinterior2/materials/lowpolyinterior2_mirror.mat
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/plants/plant_18.prefab
+5 kb                 assets/asset/lowpolyinterior2/prefabs/exterior/windows/window1_01.prefab
+2 kb                 assets/solarpanel/assets/materials/panelstructuremetalmaterial.mat
+451 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/jumpdash.anim
+769 b                assets/3d modular sci-fi environment pack/materials/blue3s.mat
+227 kb               assets/windridge city assets/staticobjects/models/foliage/vegetation/bushes/elegantbush/sassafras_leaves_1_sassafras_bunch_big_1_color-40_tr.png
+2 kb                 assets/naturemanufacture assets - trials not full resolution/easyroads-hd_add_on/road textures/materials/texturescom_concrete_withpebbles_1x1_512_ao.mat
+45 kb                packages/zepeto.buildit.city/data/tree 2/data/sa_tree_002_col.prefab
+3 kb                 packages/zepeto.character.controller/runtime/_resources/prefabs/shadow/charactershadow.prefab
+28 kb                assets/asset/lowpolyinterior2/models/interior/curtains/curtains10_c3.fbx
+2 kb                 assets/rjui/call_btn.png
+8 kb                 packages/zepeto.buildit.themepark/bench.prefab
+36 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/notebook_03.fbx
+29 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/book_04.fbx
+7 kb                 assets/lowpolyassetbundle/lowpolymegapolis/materials/lowpolymegapolis_main.mat
+21 kb                assets/asset/lowpolyinterior2/models/interior/room/dresser2_c3_02.fbx
+20 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/washer_03.fbx
+89 kb                assets/lowpolyassetbundle/lowpolymegapolis/models/buildings/suburbhouse_03.fbx
+1004 b               assets/material/materials/materials/flight.mat
+18 kb                assets/asset/lowpolyinterior2/models/exterior/roof/roof3_c1_01.fbx
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/flask 01.prefab
+490 kb               assets/fbx/bridge02.fbx
+40 kb                assets/fbx/trammodeling.prefab
+2 kb                 assets/fbx/new material.mat
+90 kb                assets/material/tile01.jpg
+11 kb                assets/3d modular sci-fi environment pack/prefabs/color 03/vase-06a.prefab
+3 mb                 assets/fbx/roadwater01.fbx
+26 mb                assets/naturemanufacture assets - trials not full resolution/easyroads-hd_add_on/road textures/t_array_roads_mt_ao_h_sm.asset
+2 kb                 packages/zepeto.character.controller/runtime/_resources/animations/ui/controller/touchpad_handle_origin_on.anim
+9 kb                 assets/asset/lowpolyinterior2/materials/lowpolyinterior2_windows.mat
+99 kb                packages/zepeto.buildit.themepark/data/lamp 1/data/ap_lamp_001.prefab
+3 mb                 assets/_bad_raccoon/_3d flowers plants vol 1/textures/plant_atlas_01.png
+2 kb                 assets/igblocks/subwaystationspack/prefabssubwaystations/bench01a.prefab
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/darts.prefab
+27 kb                assets/3d modular sci-fi environment pack/models/door-02.fbx
+28 kb                assets/asset/coffeeshopstarterpack/textures/color_palette02.png
+16 kb                assets/3d modular sci-fi environment pack/models/wall-06.fbx
+17 kb                assets/asset/lowpolyinterior2/models/interior/props/clock1_c3_02.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/exterior/floor/floor19_01.prefab
+912 b                assets/3d modular sci-fi environment pack/materials/keyboard.mat
+18 kb                assets/asset/lowpolyinterior2/models/interior/props/carpet1_c2.fbx
+3 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/window-01b.prefab
+26 kb                assets/asset/lowpolyinterior2/models/interior/kitchenprops/cup3_c2.fbx
+7 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/door-04.prefab
+59 kb                packages/zepeto.buildit.common/common/world_ap_commons/data/texture/ap_tile_003.png
+25 kb                assets/3d modular sci-fi environment pack/models/lamp-07.fbx
+1 kb                 packages/zepeto.character.controller/runtime/_resources/prefabs/shadow/fxt_blobshadow.png
+6 kb                 assets/asset/lowpolyinterior2/prefabs/interior/room/pc_table2_c2.prefab
+8 mb                 assets/fountain/source/prop_fountain.fbx
+114 kb               assets/asset/coffeeshopstarterpack/models/pw_toast_cheese.fbx
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/notebook_02.prefab
+1 mb                 packages/zepeto.character.controller/runtime/_resources/animations/gesture/4_ok.anim
+3 mb                 assets/igblocks/subwaystationspack/textures/bench01a.png
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/food/cupcake_01.prefab
+4 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/tablet with stand.prefab
+38 kb                assets/asset/coffeeshopstarterpack/models/pw_cupboard01.fbx
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/wall-02b.prefab
+13 kb                assets/asset/lowpolyinterior2/prefabs/interior/room/dresser3_c3.prefab
+1 mb                 packages/zepeto.character.controller/runtime/_resources/animations/base/v2/landingdeep.anim
+2 kb                 assets/lowpolyassetbundle/lowpolymegapolis/prefabs/buildings/suburbhouse_03.prefab
+2 kb                 assets/asset/coffeeshopstarterpack/materials/basic_metal.mat
+4 mb                 assets/solarpanel/assets/textures/railsmetal/railmetalnormalmap.png
+19 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/washer_02.fbx
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/book_01.prefab
+203 kb               packages/zepeto.buildit.wedding/data/piano/data/wd_piano.prefab
+26 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/interactivefurniture/clock_05-1.fbx
+8 kb                 packages/zepeto.buildit.themepark/lamp 1.prefab
+2 kb                 packages/zepeto.buildit.common/common/cooltime_commons/data/texture/materials/ct_object_glassgrey_01.mat
+2 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/glass-02.prefab
+29 kb                assets/3d modular sci-fi environment pack/models/teleport pad.fbx
+23 kb                assets/asset/lowpolyinterior2/models/interior/props/clock1_c3.fbx
+29 kb                assets/asset/lowpolyassetbundle/lowpolyinterior/models/room/book_02.fbx
+2 kb                 assets/lowpolyassetbundle/lowpolymegapolis/prefabs/nature/plant_02.prefab
+1 kb                 assets/3d modular sci-fi environment pack/materials/light4s.mat
+39 kb                assets/lowpolyassetbundle/lowpolymegapolis/models/props/lantern_01.fbx
+2 kb                 assets/yellow.mat   
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/kitchenprops/cup2_c5.prefab
+17 kb                assets/asset/lowpolyinterior2/models/interior/props/clock1_c3_03.fbx
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/bathroom/towelrail_03.prefab
+34 kb                assets/asset/lowpolyinterior2/models/interior/plants/vase_01.fbx
+301 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/v2/falling.anim
+2 kb                 assets/material/glass.mat
+220 kb               assets/igblocks/subwaystationspack/textures/ticketmachine01b_em.png
+72 kb                assets/asset/coffeeshopstarterpack/models/pw_doughnut_white.fbx
+22 kb                assets/3d modular sci-fi environment pack/models/cylinder-02.fbx
+68 kb                assets/asset/coffeeshopstarterpack/models/pw_display_cube.fbx
+28 kb                assets/asset/lowpolyinterior2/models/exterior/doors/doorhandle2_c2.fbx
+9 mb                 assets/naturemanufacture assets/advanced foliage pack/ground textures/t_ground_rocks_03_n.png
+2 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/room/book_02.prefab
+123 kb               assets/asset/coffeeshopstarterpack/models/pw_sculent02_m.fbx
+3 kb                 assets/3d modular sci-fi environment pack/prefabs/color 03/wall-04b.prefab
+137 kb               assets/fountain/textures/fountain_small_waterfall_tex.png
+57 kb                assets/asset/coffeeshopstarterpack/models/pw_plate01.fbx
+10 kb                assets/asset/lowpolyinterior2/prefabs/interior/bathroom/bathroom_c1_02.prefab
+74 kb                assets/asset/lowpolyinterior2/models/exterior/floor/floor13_01.fbx
+940 kb               packages/zepeto.character.controller/runtime/_resources/animations/base/run.anim
+9 kb                 assets/asset/lowpolyassetbundle/lowpolyinterior/prefabs/interactivefurniture/clock_05.prefab
+16 kb                assets/3d modular sci-fi environment pack/models/vase-07.fbx
+30 kb                assets/3d modular sci-fi environment pack/models/box-a-01.fbx
+1 kb                 assets/materials/zzz.mat
+27 kb                packages/zepeto.buildit.common/common/world_commons/data/texture/colortexture_001.png
+56 kb                assets/asset/coffeeshopstarterpack/models/pw_paper.fbx
+27 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/washer_01.fbx
+66 kb                packages/zepeto.buildit.themepark/data/plant d3/data/ap_plant_d003.prefab
+50 kb                assets/3d modular sci-fi environment pack/models/window-01.fbx
+3 kb                 assets/doorr.png    
+87 kb                packages/zepeto.buildit.wedding/data/tree2/data/wd_tree_002.prefab
+235 kb               assets/asset/coffeeshopstarterpack/test/screenshots/pw_croissant_toserve.png
+18 kb                assets/asset/lowpolyinterior2/models/exterior/ceiling/ceiling1_01.fbx
+19 kb                assets/asset/lowpolyinterior2/models/interior/bathroom/carpet_01.fbx
+760 b                assets/3d modular sci-fi environment pack/materials/red1s.mat
+2 kb                 packages/zepeto.character.controller/runtime/_resources/prefabs/shadow/fxt_blobshadow.mat
+153 kb               assets/zzz.png      
+2 kb                 packages/zepeto.character.controller/runtime/_resources/prefabs/eventsystem.prefab
+2 kb                 packages/zepeto.buildit.common/common/world_ap_commons/data/ap_texturemap_001.mat
+2 kb                 assets/lowpolyassetbundle/lowpolymegapolis/prefabs/buildings/suburbhouse_02.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/light/light_13.prefab
+2 kb                 assets/asset/lowpolyinterior2/prefabs/interior/room/sofa8_c1.prefab
+4 kb                 packages/zepeto.buildit.themepark/plant f1.prefab
+59 kb                assets/3d modular sci-fi environment pack/textures/keyboard.png
+5 mb                 assets/3d modular sci-fi environment pack/demo scenes/animation/camera (demo scene 03).anim
+205 kb               assets/solarpanel/assets/textures/panel/panelnormalmap.png
+1 kb                 assets/windridge city assets/staticobjects/models/buildings/crate_barrel/materials/crate_barrel_frames_material.mat
+2 mb                 assets/free stylized skybox/cubemap/textures/sky_anime_03_day_a.png
+[resources]
+[streamingAssets]
